@@ -1,3 +1,46 @@
+# Drop Down Component
+
+A Simple React Drop Down Component that allows user to choose values from the dropdown.
+
+## Key Features
+
+- Select your state from the list
+
+## Prerequisites
+
+A web browser (e.g. Google Chrome, Firefox, Safari)
+
+An internet connection
+
+A code editor (e.g. VS Code)
+
+## Technologies used
+
+1.HTML
+
+2.CSS
+
+3.JAVASCRIPT
+
+4.React JS
+
+## Demo
+
+Check out the live demo of the application at :
+
+https://dropdown-component-gamma.vercel.app/
+
+## Project Folder Structure
+
+    .
+    ├── build                   # Compiled files
+    ├── public                  # Contains index.html
+    ├── src                     # Contains all main code files
+        ├── App.js              # The main component
+        ├── index.js            # Starter File
+        ├── index.css           # Styles
+    └── README.md
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +111,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Authors
+
+- [@Rajkiranb55](https://github.com/Rajkiranb55)
