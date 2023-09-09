@@ -6,6 +6,12 @@ A Simple React Drop Down Component that allows user to choose values from the dr
 
 - Select your state from the list
 
+## Demo
+
+Check out the live demo of the application at :
+
+https://dropdown-component-gamma.vercel.app/
+
 ## Prerequisites
 
 A web browser (e.g. Google Chrome, Firefox, Safari)
@@ -23,12 +29,6 @@ A code editor (e.g. VS Code)
 3.JAVASCRIPT
 
 4.React JS
-
-## Demo
-
-Check out the live demo of the application at :
-
-https://dropdown-component-gamma.vercel.app/
 
 ## Project Folder Structure
 
